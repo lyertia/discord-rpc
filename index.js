@@ -9,7 +9,7 @@ assets : {
 large_image : "Discord Developer Portal'da eklediğimiz resmin ismi.",
 large_text : "Discord botları için DM." // bu gözükmeyebilir!!
 },
-buttons : [{label : "Instagram" , url : "https://www.instagram.com/helios_afkk/"},{label : "Github",url : "https://github.com/ReawenJS"}] //kendinize göre yazın
+buttons : [{label : "Discord" , url : "https://discord.gg/UkmEhtU3x3"},{label : "Github",url : "https://github.com/lyertia"}] //kendinize göre yazın
 }
 })
 })
